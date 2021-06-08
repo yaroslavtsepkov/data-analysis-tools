@@ -7,5 +7,5 @@
 6. [Xgboost](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/catboost) ( Готово )
 7. [Regression](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/regression) ( Готово )
 8. [Classification text](https://github.com/yaroslavtsepkov/datanalysistools/tree/clf_text/tree) ( Не начата )
-9. [Clustering](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/clustering) ( Проверка )
-10. [Dim reduce](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/dim_reduce) ( Проверка )
+9. [Clustering](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/clustering) ( Готова )
+10. [Dim reduce](https://github.com/yaroslavtsepkov/datanalysistools/tree/main/dim_reduce) ( Готова )
